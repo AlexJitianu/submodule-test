@@ -2,4 +2,5 @@
 	path = git_test
 	url = https://github.com/AlexJitianu/git_test.git
 	branch = master
+	update = merge
 
